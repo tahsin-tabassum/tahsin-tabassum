@@ -11,7 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs and turning them into features since day one<br>📚 Currently learning React, Next.js & exploring Full-Stack Development<br>🎯 Goals: Build useful projects, grow as a developer & never stop learning<br>🎲 Fun fact:  Fun fact: I’m a developer with a designer side</p>
+<p data-importer="text" align="left">✨ Creating bugs and turning them into features since day one<br>📚 Currently learning React, Next.js & exploring Full-Stack Development<br>🎯 Goals: Build useful projects, grow as a developer & never stop learning<br>🎲 Fun fact: I’m a developer with a designer side</p>
 
 ###
 
